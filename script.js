@@ -9,7 +9,7 @@ function stringChop(str, size) {
       i=i+size-1;
     }
     // console.log(arr);
-    return `[${arr.toString()}]`;
+    return arr
 	
   }
 
